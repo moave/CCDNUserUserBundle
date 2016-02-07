@@ -19,7 +19,7 @@
         "doctrine/orm": ">=2.2.3",
         "doctrine/doctrine-bundle": "~1.2",
         "excelwebzone/recaptcha-bundle": "~2.6@dev",
-        "friendsofsymfony/user-bundle": "dev-master"
+        "friendsofsymfony/user-bundle": "2.0.0-alpha3"
     },
     "suggest": {
         "codeconsortium/ccdn-component-common-bundle": "2.0.*@dev",
